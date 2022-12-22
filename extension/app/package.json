@@ -36,7 +36,7 @@
   "dependencies": {
     "axios": "^0.18.0",
     "autoprefixer": "7.1.6",
-    "jsonwebtoken": "^8.3.0",
+    "jsonwebtoken": "^9.0.0",
     "react": "^16.4.0",
     "react-bootstrap": "^0.32.4",
     "react-bootstrap-table-next": "^1.1.4",
